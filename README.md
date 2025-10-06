@@ -1,4 +1,6 @@
-# Github and git conflict
+=======
+# Github and git
+>>>>>>> development
 # **UNO Start Month/Year**
 - August 2024
 
